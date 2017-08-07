@@ -35,7 +35,7 @@ testem.log
 yarn-error.log
 
 # e2e
-/e2e/*
+/e2e
 
 
 # System Files
